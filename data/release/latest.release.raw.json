@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5900603,
       "digest": "sha256:4725c9dfc6433a23b385c537ab26ef95f4225c48872fe7032a0234b99d574b32",
-      "download_count": 16,
+      "download_count": 23,
       "created_at": "2026-09-08T20:38:33Z",
       "updated_at": "2026-09-08T20:38:34Z",
       "browser_download_url": "https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5637182,
       "digest": "sha256:efb83b255a573be8a02c37a00ec68a281f44f02a2e1d03aaadce0ea068fb58a9",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-09-08T20:38:32Z",
       "updated_at": "2026-09-08T20:38:34Z",
       "browser_download_url": "https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6133845,
       "digest": "sha256:204e81a924670a20d88b5eee77ce5594c7bc8cf95df182b780cd3c9a944560ff",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-09-08T20:38:32Z",
       "updated_at": "2026-09-08T20:38:33Z",
       "browser_download_url": "https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Linux_x86_64.tar.gz"
