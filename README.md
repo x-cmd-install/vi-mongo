@@ -4,7 +4,7 @@
 
 MongoDB TUI manager designed to simplify data visualization and quick manipulation
 
-![vi-mongo](https://repo.x-cmd.io/vi-mongo.svg)
+[![x-cmd/install — vi-mongo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vi-mongo.svg)](https://x-cmd.com/install/vi-mongo)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **16,614** lines of code across **98** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 243 · **Forks**: 19 · **Open issues**: 49 · **Contributors**: 11
+- **Stars**: 243 · **Forks**: 19 · **Open issues**: 50 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 49 · **Open issues**: 0 · **Commits**: 391
+- **Releases**: 41 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 49 · **Open issues**: 1 · **Commits**: 391
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-20 | 2 | 3 | 0 | 0 | 0 | 6 |
-| 90d | 2026-06-20 | 2 | 3 | 0 | 0 | 0 | 6 |
-| last180d | 2026-03-22 | 5 | 7 | 0 | 2 | 0 | 18 |
-| 360d | 2025-09-23 | 11 | 19 | 0 | 10 | 0 | 63 |
-| last720d | 2024-09-28 | 38 | 50 | 0 | 49 | 0 | 208 |
+| 30d | 2026-08-21 | 1 | 2 | 0 | 0 | 1 | 2 |
+| last60d | 2026-07-22 | 2 | 2 | 0 | 0 | 1 | 5 |
+| 90d | 2026-06-22 | 2 | 3 | 0 | 0 | 1 | 6 |
+| last180d | 2026-03-24 | 5 | 6 | 0 | 2 | 1 | 16 |
+| 360d | 2025-09-25 | 11 | 19 | 0 | 9 | 1 | 63 |
+| last720d | 2024-09-30 | 38 | 50 | 0 | 49 | 1 | 208 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for vi-mongo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:04:17Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:03:06Z._
