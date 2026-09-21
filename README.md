@@ -14,11 +14,11 @@ x install vi-mongo
 
 ## Code insight
 
-Total: **16,614** lines of code across **98** files in the top 5 languages.
+Total: **16,615** lines of code across **98** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,832 | 547 | 2,355 | 84 |
+| Go | 15,833 | 547 | 2,356 | 84 |
 | Yaml | 611 | 0 | 19 | 10 |
 | Sh | 125 | 6 | 26 | 2 |
 | Makefile | 45 | 2 | 12 | 1 |
@@ -33,27 +33,27 @@ Total: **16,614** lines of code across **98** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.1` (2026-09-08)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-20
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 243 · **Forks**: 19 · **Open issues**: 50 · **Contributors**: 11
+- **Stars**: 244 · **Forks**: 19 · **Open issues**: 50 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 49 · **Open issues**: 1 · **Commits**: 391
+- **Releases**: 41 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 49 · **Open issues**: 1 · **Commits**: 392
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 2 | 0 | 0 | 1 | 2 |
-| last60d | 2026-07-22 | 2 | 2 | 0 | 0 | 1 | 5 |
-| 90d | 2026-06-22 | 2 | 3 | 0 | 0 | 1 | 6 |
-| last180d | 2026-03-24 | 5 | 6 | 0 | 2 | 1 | 16 |
-| 360d | 2025-09-25 | 11 | 19 | 0 | 9 | 1 | 63 |
-| last720d | 2024-09-30 | 38 | 50 | 0 | 49 | 1 | 208 |
+| 30d | 2026-08-22 | 1 | 2 | 0 | 0 | 1 | 3 |
+| last60d | 2026-07-23 | 2 | 2 | 0 | 0 | 1 | 6 |
+| 90d | 2026-06-23 | 2 | 3 | 0 | 0 | 1 | 7 |
+| last180d | 2026-03-25 | 4 | 6 | 0 | 2 | 1 | 17 |
+| 360d | 2025-09-26 | 11 | 19 | 0 | 9 | 1 | 64 |
+| last720d | 2024-10-01 | 38 | 50 | 0 | 49 | 1 | 209 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for vi-mongo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:03:06Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:05:53Z._
