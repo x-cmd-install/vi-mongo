@@ -4,7 +4,7 @@
 
 MongoDB TUI manager designed to simplify data visualization and quick manipulation
 
-[![x-cmd/install — vi-mongo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vi-mongo.svg)](https://x-cmd.com/install/vi-mongo)
+[![x-cmd/install — vi-mongo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vi-mongo.svg)](https://x-cmd.com/install/vi-mongo)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **16,615** lines of code across **98** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 244 · **Forks**: 19 · **Open issues**: 50 · **Contributors**: 11
+- **Stars**: 245 · **Forks**: 19 · **Open issues**: 50 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,615** lines of code across **98** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 2 | 0 | 0 | 1 | 3 |
-| last60d | 2026-07-24 | 2 | 2 | 0 | 0 | 1 | 6 |
-| 90d | 2026-06-24 | 2 | 3 | 0 | 0 | 1 | 7 |
-| last180d | 2026-03-26 | 4 | 6 | 0 | 2 | 1 | 17 |
-| 360d | 2025-09-27 | 11 | 19 | 0 | 9 | 1 | 64 |
-| last720d | 2024-10-02 | 38 | 50 | 0 | 49 | 1 | 209 |
+| 30d | 2026-08-24 | 1 | 2 | 0 | 0 | 1 | 3 |
+| last60d | 2026-07-25 | 2 | 2 | 0 | 0 | 1 | 6 |
+| 90d | 2026-06-25 | 2 | 3 | 0 | 0 | 1 | 7 |
+| last180d | 2026-03-27 | 4 | 6 | 0 | 2 | 1 | 17 |
+| 360d | 2025-09-28 | 11 | 19 | 0 | 9 | 1 | 64 |
+| last720d | 2024-10-03 | 38 | 50 | 0 | 49 | 1 | 203 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for vi-mongo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:06:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:05:10Z._
