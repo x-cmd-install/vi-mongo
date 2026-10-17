@@ -48,12 +48,12 @@ Total: **16,615** lines of code across **98** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 4 | 1 |
-| last60d | 2026-08-17 | 1 | 2 | 0 | 0 | 4 | 5 |
-| 90d | 2026-07-18 | 2 | 3 | 0 | 0 | 4 | 7 |
-| last180d | 2026-04-19 | 4 | 6 | 0 | 2 | 4 | 15 |
-| 360d | 2025-10-21 | 11 | 19 | 0 | 7 | 4 | 63 |
-| last720d | 2024-10-26 | 29 | 48 | 0 | 49 | 4 | 155 |
+| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 4 | 1 |
+| last60d | 2026-08-18 | 1 | 2 | 0 | 0 | 4 | 5 |
+| 90d | 2026-07-19 | 2 | 3 | 0 | 0 | 4 | 7 |
+| last180d | 2026-04-20 | 4 | 6 | 0 | 2 | 4 | 15 |
+| 360d | 2025-10-22 | 11 | 19 | 0 | 7 | 4 | 63 |
+| last720d | 2024-10-27 | 29 | 48 | 0 | 49 | 4 | 155 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for vi-mongo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:34:47Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:14:52Z._
