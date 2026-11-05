@@ -38,7 +38,7 @@ Total: **16,634** lines of code across **98** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 248 · **Forks**: 19 · **Open issues**: 53 · **Contributors**: 11
+- **Stars**: 248 · **Forks**: 20 · **Open issues**: 53 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **16,634** lines of code across **98** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-05 | 1 | 1 | 0 | 1 | 3 | 3 |
-| 90d | 2026-08-06 | 1 | 2 | 0 | 1 | 3 | 6 |
-| last180d | 2026-05-08 | 4 | 5 | 0 | 2 | 3 | 15 |
-| 360d | 2025-11-09 | 11 | 19 | 0 | 8 | 3 | 64 |
-| last720d | 2024-11-14 | 23 | 40 | 0 | 38 | 3 | 134 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-06 | 1 | 1 | 0 | 1 | 3 | 3 |
+| 90d | 2026-08-07 | 1 | 2 | 0 | 1 | 3 | 6 |
+| last180d | 2026-05-09 | 4 | 5 | 0 | 2 | 3 | 15 |
+| 360d | 2025-11-10 | 11 | 19 | 0 | 8 | 3 | 64 |
+| last720d | 2024-11-15 | 23 | 40 | 0 | 38 | 3 | 134 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for vi-mongo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:23:53Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:41:03Z._
