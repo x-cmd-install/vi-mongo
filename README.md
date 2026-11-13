@@ -32,8 +32,8 @@ Total: **16,634** lines of code across **98** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.1` (2026-09-08)
-- **Last commit**: 2026-11-03
+- **Latest**: `v0.3.2` (2026-11-12)
+- **Last commit**: 2026-11-12
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,38 +42,38 @@ Total: **16,634** lines of code across **98** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 50 · **Open issues**: 3 · **Commits**: 393
+- **Releases**: 42 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 50 · **Open issues**: 3 · **Commits**: 394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-13 | 0 | 1 | 0 | 1 | 3 | 2 |
-| 90d | 2026-08-14 | 1 | 2 | 0 | 1 | 3 | 6 |
-| last180d | 2026-05-16 | 3 | 4 | 0 | 2 | 3 | 13 |
-| 360d | 2025-11-17 | 10 | 18 | 0 | 7 | 3 | 61 |
-| last720d | 2024-11-22 | 22 | 38 | 0 | 37 | 3 | 126 |
+| 30d | 2026-10-14 | 1 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-14 | 1 | 0 | 0 | 1 | 3 | 3 |
+| 90d | 2026-08-15 | 2 | 2 | 0 | 1 | 3 | 7 |
+| last180d | 2026-05-17 | 4 | 4 | 0 | 2 | 3 | 14 |
+| 360d | 2025-11-18 | 11 | 18 | 0 | 7 | 3 | 62 |
+| last720d | 2024-11-23 | 23 | 38 | 0 | 37 | 3 | 127 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [vi-mongo_checksum_sha256.txt](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_checksum_sha256.txt) | 567 B | `other` |
-| [vi-mongo_Darwin_arm64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Darwin_arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
-| [vi-mongo_Darwin_x86_64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Darwin_x86_64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
-| [vi-mongo_Linux_arm64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Linux_arm64.tar.gz) | 5.4 MiB | `native/linux/arm64` |
-| [vi-mongo_Linux_x86_64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Linux_x86_64.tar.gz) | 5.8 MiB | `native/linux/x64` |
-| [vi-mongo_Windows_arm64.zip](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Windows_arm64.zip) | 5.4 MiB | `native/win/arm64` |
-| [vi-mongo_Windows_x86_64.zip](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.1/vi-mongo_Windows_x86_64.zip) | 6.0 MiB | `native/win/x64` |
+| [vi-mongo_checksum_sha256.txt](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.2/vi-mongo_checksum_sha256.txt) | 567 B | `other` |
+| [vi-mongo_Darwin_arm64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.2/vi-mongo_Darwin_arm64.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
+| [vi-mongo_Darwin_x86_64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.2/vi-mongo_Darwin_x86_64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
+| [vi-mongo_Linux_arm64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.2/vi-mongo_Linux_arm64.tar.gz) | 5.4 MiB | `native/linux/arm64` |
+| [vi-mongo_Linux_x86_64.tar.gz](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.2/vi-mongo_Linux_x86_64.tar.gz) | 5.9 MiB | `native/linux/x64` |
+| [vi-mongo_Windows_arm64.zip](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.2/vi-mongo_Windows_arm64.zip) | 5.4 MiB | `native/win/arm64` |
+| [vi-mongo_Windows_x86_64.zip](https://github.com/kopecmaciej/vi-mongo/releases/download/v0.3.2/vi-mongo_Windows_x86_64.zip) | 6.0 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **6** distros on [repology.org](https://repology.org/project/vi-mongo). **3** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **6** distros on [repology.org](https://repology.org/project/vi-mongo). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.3.1` | ✅ latest |
+| Nix unstable | `0.3.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for vi-mongo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:33:58Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:07:10Z._
