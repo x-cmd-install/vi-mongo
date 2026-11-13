@@ -2,8 +2,8 @@
   srcname: vi-mongo
   binname: vi-mongo
   visiblename: vi-mongo
-  version: 0.3.1
-  origversion: 0.3.1-1
+  version: 0.3.2
+  origversion: 0.3.2-1
   status: newest
   summary: Terminal User Interface for MongoDB
   maintainers:
@@ -14,8 +14,8 @@
   srcname: vi-mongo-bin
   binname: vi-mongo-bin
   visiblename: vi-mongo-bin
-  version: 0.3.1
-  origversion: 0.3.1-1
+  version: 0.3.2
+  origversion: 0.3.2-1
   status: newest
   summary: MongoDB TUI manager designed to simplify data visualization and quick manipulation
   maintainers:
@@ -60,7 +60,7 @@
   visiblename: vi-mongo
   version: 0.3.1
   origversion: null
-  status: newest
+  status: outdated
   summary: MongoDB TUI manager designed to simplify data visualization and quick manipulation
   maintainers:
     - genga898@gmail.com
